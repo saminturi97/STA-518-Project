@@ -1,2 +1,2 @@
 # STA-518-Project
-Shambhavi Inturi, Vinay Bommiraddy and Goutham Srinivas
+Shambhavi Inturi, Vinay Bommireddy and Goutham Srinivas
