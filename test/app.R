@@ -30,7 +30,7 @@ df4 <- df4[complete.cases(df4), ]
 library(shiny)
 
 # Define UI for application 
-ui <- fluidPage(
+ui <- fluidPage( theme = shinytheme("darkly"),
     titlePanel("Airbnb data Exploration"),
     tabsetPanel(
         tabPanel("Plot for Accommodates vs Bedrooms ",
