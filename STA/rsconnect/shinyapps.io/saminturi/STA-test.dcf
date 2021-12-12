@@ -1,0 +1,13 @@
+name: STA-test
+title: STA-test
+username:
+account: saminturi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5311510
+bundleId: 5360956
+url: https://saminturi.shinyapps.io/STA-test/
+when: 1639267859.70922
+lastSyncTime: 1639267859.70923
+asMultiple: FALSE
+asStatic: FALSE
